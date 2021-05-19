@@ -13,8 +13,13 @@ Short Python script for spliting dataset of black and red cats (45 photos: 40 tr
 - scikit-learn
 
 ## Setup
-In command window put (?):
-$ python -m pip install https://github.com/kingakrajniak/k-means-clusterization.git
+In command window put :
+```
+git clone --recursive https://github.com/kingakrajniak/k-means-clusterization.git  
+cd k-means-clusterization  
+python cat_photos_division.py
+```
+
 ## Problems
 - 0 and 1 for 'red cat' and 'black cat' aren't universal. Sometimes the clusters are switched and photos don't match the descriptions.
 
