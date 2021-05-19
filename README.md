@@ -21,7 +21,7 @@ python cat_photos_division.py
 ```
 
 ## Problems
-- 0 and 1 for 'red cat' and 'black cat' aren't universal. Sometimes the clusters are switched and photos don't match the descriptions.
+- 0 and 1 for 'red cat' and 'black cat' aren't universal. Sometimes the clusters are switched and photos don't match the descriptions despite semi-correct clusterization.
 
 ## Sources
 Photos from google.
