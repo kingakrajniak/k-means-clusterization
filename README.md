@@ -13,7 +13,7 @@ Short Python script for spliting dataset of black and red cats (45 photos: 40 tr
 - scikit-learn
 
 ## Setup
-In command window put :
+In command window put:
 ```
 git clone --recursive https://github.com/kingakrajniak/k-means-clusterization.git  
 cd k-means-clusterization  
